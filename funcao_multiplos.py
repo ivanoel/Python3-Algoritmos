@@ -1,4 +1,4 @@
-#!usr/bin/python3
+#!/usr/bin/python3
 # Exercio de função com multiplos
 '__autor__' == '__Ivanoel__'
 def multiplos(x,y):
